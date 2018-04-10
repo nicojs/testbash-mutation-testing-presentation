@@ -1,0 +1,5 @@
+section .welcome-slide h1 {
+    color: #fff;
+    vertical-align: top;
+    top: 0;
+}
