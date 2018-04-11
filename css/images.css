@@ -1,0 +1,7 @@
+.reveal section img.logo {
+    vertical-align: middle;
+}
+
+img.logo {
+    max-width: 200px;
+}

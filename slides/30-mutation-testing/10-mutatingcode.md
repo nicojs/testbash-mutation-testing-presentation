@@ -1,7 +1,7 @@
 <!-- .element: class="fragments-no-display"-->
 ### Mutating code
 
-<pre><code data-noescape data-trim class="lang-js hljs javascript">
+<pre><code data-noescape data-trim class="lang-ts hljs typescript">
 // Production code
 function isAllowedToBuyDrink(customer, drink) {
     if(drink.isAlcoholic) {
@@ -17,5 +17,5 @@ function isAllowedToBuyDrink(customer, drink) {
 var customer = { name: 'Mark', age: 24 };
 var drink = { name: 'Robo Beer', isAlcoholic: true };
 
-assert.equal(isAllowedToBuyDrink(customer, drink), true);
+expect(isAllowedToBuyDrink(customer, drink)).to.equal(true);
 </code></pre>
