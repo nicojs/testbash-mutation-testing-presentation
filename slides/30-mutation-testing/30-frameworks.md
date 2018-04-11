@@ -1,4 +1,4 @@
-## Mutation testing frameworks
+## Frameworks
 Language            | Framework   
 ------------------|:-------
 JavaScript | Stryker Mutator  
