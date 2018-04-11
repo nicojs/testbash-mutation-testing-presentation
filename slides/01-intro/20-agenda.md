@@ -1,4 +1,4 @@
-## Kill the mutants!
+## Control the mutants!
 
 An introduction to mutation testing
 
