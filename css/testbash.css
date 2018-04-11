@@ -8,3 +8,8 @@ section .welcome-slide h1 {
     font-size: 0.4em;
     line-height: 0.8em;
 }
+
+.reveal td, .reveal th {
+    color: #fff;
+    font-size: 80%;
+}
