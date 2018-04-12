@@ -1,4 +1,4 @@
-## Unit text example
+## Unit test example
 
 ```javascript
 // Production code
