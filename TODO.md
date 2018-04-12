@@ -4,7 +4,7 @@
     * DevOps engineer, open source fanatic
     * Full stack developer, automatic testing evangelist 
 - [/] Info Support + Info Support heart open source
-- [] Nadelen van mutation testing?
+- [/] Nadelen van mutation testing?
 - [] Slide voor mutation score?
     * SonarQube vb
 - [] Recap:
