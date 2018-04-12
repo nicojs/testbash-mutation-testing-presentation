@@ -1,3 +1,8 @@
+## Question time!
+Please stand up for a moment
+
+---
+
 ## Who tests software?
 
 ---
@@ -6,10 +11,9 @@
 
 ...in any way, shape or form?
 
-
 ---
 
-## Who maintains unit tests?
+## Who has unit tests?
 
 ---
 
@@ -18,5 +22,5 @@
 
 ---
 
-## Who uses Mutation Testing?
+## Do you use Mutation Testing?
 

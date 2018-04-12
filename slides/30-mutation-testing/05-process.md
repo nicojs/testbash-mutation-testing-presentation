@@ -10,4 +10,4 @@
 1. Source code
 1. <!-- .element class="fragment" data-fragment-index="1" -->Mutant
 1. <!-- .element class="fragment" data-fragment-index="2" -->Killed / survived
-1. <!-- .element class="fragment" data-fragment-index="3" -->Mutation score
+1. <!-- .element class="fragment" data-fragment-index="3" -->Report
