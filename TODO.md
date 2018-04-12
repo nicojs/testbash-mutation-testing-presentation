@@ -7,7 +7,7 @@
 - [/] Nadelen van mutation testing?
 - [] Slide voor mutation score?
     * SonarQube vb
-- [] Recap:
+- [/] Recap:
     * 'Cheap' Unit tests
     * Don't trust (only) code coverage
     * Mutation testing measures *effectiveness*
