@@ -10,7 +10,7 @@ function isAllowedToBuyAlcohol(customer) {
 ```javascript
 // Test
 var customer = { name: 'Mark', age: 24 };
-expect(isAllowedToBuyDrink(customer, drink)).to.equal(true);
+expect(isAllowedToBuyDrink(customer)).to.equal(true);
 ```
 
 An example of a unit test in JavaScript

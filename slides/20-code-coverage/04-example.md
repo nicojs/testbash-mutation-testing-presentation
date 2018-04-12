@@ -10,7 +10,7 @@ function isAllowedToBuyAlcohol(customer) {
 ```javascript
 // Test
 var customer = { name: 'Mark', age: 24 };
-expect(isAllowedToBuyDrink(customer, drink)).to.equal(true);
+expect(isAllowedToBuyDrink(customer)).to.equal(true);
 ```
 
 What is the code coverage here?

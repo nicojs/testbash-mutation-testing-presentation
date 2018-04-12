@@ -11,5 +11,5 @@ function isAllowedToBuyAlcohol(customer) {
 
 <pre><code class="lang-js hljs javascript">// Test
 var customer = { name: 'Mark', age: 24 };
-expect(isAllowedToBuyDrink(customer, drink)).to.equal(true);
+expect(isAllowedToBuyDrink(customer)).to.equal(true);
 </code></pre>
