@@ -13,7 +13,7 @@
     * Mutation testing measures *effectiveness*
     * Use Stryker for JavaScript
     * Fix links
-- [] In readme van slides: demo code
+- [/] In readme van slides: demo code
 - [] Maybe animated gif of missing integration test
 - [/] Nailed it vs Chocolate pie example
 - [] Links naar GitHub en de stryker website fixen
