@@ -16,4 +16,4 @@
 - [] In readme van slides: demo code
 - [] Maybe animated gif of missing integration test
 - [/] Nailed it vs Chocolate pie example
-
+- [] Links naar GitHub en de stryker website fixen
