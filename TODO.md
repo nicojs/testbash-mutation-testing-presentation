@@ -1,3 +1,5 @@
+- [/] Intro slide kill-the-mutants
+- [/] Test with spotlight
 - [/] Code coverage uitleggen met slide (voorafgaand aan demo)
 - [/] Alle code voorbeelden op elkaar afstemmen.
 - [/] Intro slides van ons
@@ -5,7 +7,7 @@
     * Full stack developer, automatic testing evangelist 
 - [/] Info Support + Info Support heart open source
 - [/] Nadelen van mutation testing?
-- [] Slide voor mutation score?
+- [/] Slide voor mutation score?
     * SonarQube vb
 - [/] Recap:
     * 'Cheap' Unit tests
@@ -14,6 +16,5 @@
     * Use Stryker for JavaScript
     * Fix links
 - [/] In readme van slides: demo code
-- [] Maybe animated gif of missing integration test
 - [/] Nailed it vs Chocolate pie example
-- [] Links naar GitHub en de stryker website fixen
+- [/] Links naar GitHub en de stryker website fixen

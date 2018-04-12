@@ -4,7 +4,7 @@
   "description": "Presentation for TestBash 2018",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"kc-serve --theme black --highlight darkula -o\" \"http-server -p 4901\""
+    "start": "kc-serve --theme black --highlight darkula"
   },
   "author": "",
   "license": "Apache-2",

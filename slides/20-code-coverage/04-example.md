@@ -1,19 +1,18 @@
-```typescript
-function isAllowedToBuyDrink(customer, drink) {
-    if(drink.isAlcoholic) {
-        return customer.age >= 18;
-    } else {
-        return true;
-    }
+### Code coverage example
+
+```javascript
+// Production code
+function isAllowedToBuyAlcohol(customer) {
+  return customer.age >= 18;
 }
 ```
 
-```typescript
+```javascript
 // Test
 var customer = { name: 'Mark', age: 24 };
-var beer = { name: 'Robo Beer', isAlcoholic: true };
-var cola = { name: 'Roba cola', isAlcoholic: false };
-
 expect(isAllowedToBuyDrink(customer, drink)).to.equal(true);
-expect(isAllowedToBuyDrink(customer, drink)).to.equal(false);
 ```
+
+What is the code coverage here?
+
+100% :( <!-- .element class="fragment" data-fragment-index="0" -->

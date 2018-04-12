@@ -13,3 +13,7 @@ section .welcome-slide h1 {
     color: #fff;
     font-size: 80%;
 }
+
+.reveal h1.red, .reveal h2.red, .reveal h3.red {
+    color: #b74934;
+}
