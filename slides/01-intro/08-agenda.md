@@ -2,7 +2,16 @@
 
 An introduction to mutation testing
 
-1. Unit tests
-2. Code coverage
-3. Mutation testing
-4. Stryker
+<div class="flex">
+    <div class="col">
+      <ol style="margin-top: 75px">
+        <li>Unit tests</li>
+        <li>Code coverage</li>
+        <li>Mutation testing</li>
+        <li>Stryker</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img class="img-responsive-250" src="/img/stryker-books.jpg">
+    </div>
+</div>
